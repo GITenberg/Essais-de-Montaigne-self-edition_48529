@@ -1,9 +1,13 @@
 _repo: Essais-de-Montaigne-self-edition_48529
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Michaud
     gutenberg_agent_id: '44838'
     url: http://www.gutenberg.org/2009/agents/44838
+covers:
+- cover_type: archival
+  image_path: 48529-h/images/cover.jpg
 creator:
   author:
     agent_name: Montaigne, Michel de
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1230
     wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48529#Essais-de-Montaigne-self-edition
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2015-03-19'
 gutenberg_type: Text
